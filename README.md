@@ -17,7 +17,7 @@ Next.js is an awesome and minimalistic framework to make a modern universal reac
 
 ## Getting started
 ```
-git clone https://github.com/CodementorIO/nextjs-redux-starter my-project
+git clone https://github.com/kiddodev050/nextjs-redux-starter my-project
 cd my-project
 yarn install
 yarn start
